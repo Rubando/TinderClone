@@ -1,0 +1,45 @@
+.swipeButtons{
+    position: fixed;
+    bottom: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.swipeButtons__replay{
+    background-color: white;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3) !important;
+    padding: 3vw !important;
+    color:orange;
+
+}
+.swipeButtons__left{
+    background-color: white;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+    padding: 3vw !important;
+    color:red;
+
+}
+.swipeButtons__star{
+    background-color: white;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+    padding: 3vw !important;
+    color:lightblue;
+
+}
+.swipeButtons__right{
+    background-color: white;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+    padding: 3vw !important;
+    color:lightgreen;
+
+}
+.swipeButtons__lightning{
+    background-color: white;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+    padding: 3vw !important;
+    color:purple;
+
+}
+
+
